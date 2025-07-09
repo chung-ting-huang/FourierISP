@@ -1,0 +1,6 @@
+colour-demosaicing
+pyiqa
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+nncf 2.15.0 requires numpy<2.2.0,>=1.24.0, but you have numpy 2.2.6 which is incompatible.
+  DEPRECATION: Building 'openai-clip' using the legacy setup.py bdist_wheel mechanism, which will be removed in a future version. pip 25.3 will enforce this behaviour change. A possible replacement is to use the standardized build interface by setting the `--use-pep517` option, (possibly combined with `--no-build-isolation`), or adding a `pyproject.toml` file to the source tree of 'openai-clip'. Discussion can be found at https://github.com/pypa/pip/issues/6334
+  DEPRECATION: Building 'filterpy' using the legacy setup.py bdist_wheel mechanism, which will be removed in a future version. pip 25.3 will enforce this behaviour change. A possible replacement is to use the standardized build interface by setting the `--use-pep517` option, (possibly combined with `--no-build-isolation`), or adding a `pyproject.toml` file to the source tree of 'filterpy'. Discussion can be found at https://github.com/pypa/pip/issues/6334
