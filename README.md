@@ -13,5 +13,7 @@ train.py -opt options/train/FourierISP/train_FourierISP.yml
 For unaligned datasets, we recommend using the ZRR dataset. For aligned datasets, the aligning process can be implemented using either alignformer or liteisp.
 Please note that the alignment of datasets is crucial for obtaining best visual results in the training process.
 
-
-
+## Install
+'''
+python setup.py install
+'''
