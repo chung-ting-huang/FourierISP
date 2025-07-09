@@ -17,3 +17,5 @@ Please note that the alignment of datasets is crucial for obtaining best visual 
 '''
 python setup.py install
 '''
+basicsr > archs > vgg_arch.py
+VGG_PRETRAIN_PATH = './data/pretrain/vgg19-dcbb9e9d.pth'
